@@ -1,0 +1,2 @@
+rootProject.name='QL_Khach_san'
+include ':app'
